@@ -1,0 +1,2 @@
+# Quoter
+Polski bot discord!
